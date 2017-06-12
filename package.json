@@ -1,0 +1,23 @@
+{
+  "name": "reasoning.club",
+  "version": "1.0.0",
+  "description": "reasoning club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiangtaoK/reasoning.club.git"
+  },
+  "keywords": [
+    "reasoning",
+    "club"
+  ],
+  "author": "Kay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiangtaoK/reasoning.club/issues"
+  },
+  "homepage": "https://github.com/JiangtaoK/reasoning.club#readme"
+}
